@@ -1,9 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: 
+### Day 0: Oct 6, 2017 
+#####Today's Progress**: 
 **python class🤠 
 **class instances 
 **class methods and types 
@@ -12,12 +10,15 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 1: Oct 7, 2017 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+####Today's Progress
+**6 questions of leetcode😎 and**
+**class array 
+**python orderedlist 
+**python queue.py 
+**python stack.py 
+**python unorderedlist 
+**stack by linklist
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
